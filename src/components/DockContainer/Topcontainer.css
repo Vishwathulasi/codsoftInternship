@@ -1,0 +1,7 @@
+.topcontainer{
+    background: url('../../assests/code1.jpeg');
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.5);
+}
